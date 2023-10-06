@@ -11,8 +11,8 @@ I intentionally DO NOT write my own code anymore, I only plan, refine and define
 
 ## Relative Work History
 - 2023 created a DOM Mutation Auditor that does continuous micro scans as a page mutates from user interactions. Enabling teams without e2e tests, or access to manual testers access to the violations.
-- 2022 Agile Dev Conf lightening talk on e2e router, config, and micro test injection and how that allows your test coverage to automa[t|g]ically grow as you buikd oit your routes and application.
-- 2021 Selected to lead an organization accessibility reporting and remediation program.
+- 2022 Agile Dev Conf lightening talk on e2e router, config, and micro test injection and how that allows your test coverage to automa[t|g]ically grow as you build out your routes and application.
+- 2021 Selected to setup and lead an organization accessibility reporting and remediation program on a secured network. Leading without authority in short order got multiple teams shipping fully compliant applications.
 - 2020 International Tech Liaison for all of the Threat Screening Center foreign intel partners. Focused on on security,internationalization, and inclusion,adoption and ETL and Web Services data verification.
 - 2019 Brought on to take CloudTracker to an marketable enterprise application. It would go onto to win cloud security award as well as finish 2nd in best user experience.
 Would also go on to work on a media exploit application that would assist in 2023's largest worldwide coordinated bust of women and children exploiters.
