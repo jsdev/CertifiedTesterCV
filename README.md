@@ -2,14 +2,14 @@
 [508dev](https://lkdn.in/508dev) | REMOTE US
 
 ## Objective
-To secure a 508 Tester or 508 Developer lead. I have a suite of products I bring to the table that I own IP of and want to continue to iterate over and refine with generatice AI.
+To secure a 508 Tester/Educator position. I have a suite of products I bring to the table that I own IP of and want to continue to iterate over and refine with generatice AI.
 
 ## Summary
 I have repeatedly shipped perfectly compliant rich web based desktop and mobile applications on first attempt since 2013.
 
-I intentionally DO NOT write my own code anymore, I only plan, refine and define definition of done.
+I intentionally DO NOT write my own code anymore, I only plan, refine and define definition of done.  
 
-## Recent Work History
+## Relative Work History
 - 2023 created a DOM Mutation Auditor that does continuous micro scans as a page mutates from user interactions. Enabling teams without e2e tests, or access to manual testers access to the violations.
 - 2022 Agile Dev Conf lightening talk on e2e router, config, and micro test injection and how that allows your test coverage to automa[t|g]ically grow as you buikd oit your routes and application.
 - 2021 Selected to lead an organization accessibility reporting and remediation program.
@@ -25,3 +25,5 @@ All apps I submitted went through the various app stores on first attempt largel
 Would be promoted to Release Engineer to ensure all other apps made into app stores on first submission.
 - 2012 wond Top Innovator Honor at CGI Town Hall and woukd go onto do rewrite Gannett Digitals interface to support touch screens and iPads as well as work on their CMS that powers 2000+ subsidiary media properties.
   
+## Relative Certifications
+DHS Trusted Tester (6/2023)
