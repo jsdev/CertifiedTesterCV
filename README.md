@@ -2,12 +2,12 @@
 [508dev](https://lkdn.in/in/508dev) | REMOTE US
 
 ## Objective
-To secure a 508 Tester/Educator position and iterate over and refine a suite of accessibility tools I generated with OpenAI.
+To secure a 508 Tester/Educator position and iterate over and refine a suite of accessibility tools generated with OpenAI.
 
 ## Summary
-I tackle inclusion and adoption of applications very thoroughly and through a multitude of angles. Look forward to any opportunity to talk to my experience and the limitations of opensource and commercial tools, unmotivated teams, or even my limited availability, and how I overcome each.
+Pursuance of inclusion and the adoption of applications through a multitude of angles. Look forward to any opportunity to talk to my experience and the limitations of opensource and commercial tools, unmotivated teams, or even my limited availability, and how to overcome.
 
-I intentionally DO NOT write my own code anymore, I only plan, refine and define definition of done.  
+I intentionally DO NOT write my own code anymore, I only plan, refine and define definition of done.
 
 ## Relative Work History
 - 2023 Stood uo a DOM Mutation Auditor that does continuous micro scans as a page mutates from user interactions, enabling teams without e2e tests, or access to manual testers awareness of violations and access to solutions.
