@@ -27,5 +27,5 @@ Would be promoted to Release Engineer to ensure all other apps made into app sto
 ## Awards and References
 I have won multiple individual awards and been apart of multiple award winning teams, at various levels of government and commercial. References available on request.
 
-## Relative and Current Certifications
+## Relevant and Current Certifications
 DHS Trusted Tester (6/2023)
