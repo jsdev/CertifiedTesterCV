@@ -2,17 +2,14 @@
 [508dev](https://lkdn.in/in/508dev) | REMOTE US
 
 ## Objective
-
 To secure a 508 Tester/Educator position and iterate over and refine a suite of accessibility tools generated with OpenAI.
 
 ## Summary
-
 Passionate about inclusion and the adoption of accessible applications, I bring a wealth of experience and expertise to the role of 508 Tester/Educator. I am skilled in a variety of accessibility tools and techniques, and I am also proficient in developing and delivering training programs.
 
 I am a highly motivated and results-oriented individual with a proven track record of success. I am also a team player and I am eager to collaborate with others to achieve common goals.
 
 ## Relative Work History
-
 - 2023 Stood up a DOM Mutation Auditor that does continuous micro scans as a page mutates from user interactions, enabling teams without e2e tests, or access to manual testers awareness of violations and access to solutions.
 - 2022 Presented a lightning talk at the Agile Dev Conf on how to combine any e2e suite, any app router, axe-core's micro test injection, and a usability config to run at scale (up to 212k micro tests and counting). Leveraged git hooks locally to ensure a no-tolerance policy for introducing accessibility bugs without increasing pipeline times. Tests scale automatically as the coverage grows as you build out your routes and application.
 - 2021 Selected to set up and lead an organization accessibility reporting and remediation program on a secured network. Successfully led multiple teams to ship fully compliant applications.
@@ -25,9 +22,7 @@ I am a highly motivated and results-oriented individual with a proven track reco
 - 2012 Won Top Innovator Honor at CGI Town Hall and went on to do rewrite Gannett Digitals interface to support touch screens and iPads as well as work on their CMS that powers 2000+ subsidiary media properties.
 
 ## Awards and References
-
-I have won multiple individual awards and been part of multiple award-winning teams, at various levels of government and commercial. References available on request.
+I have won multiple individual awards and been part of multiple award-winning teams, at various levels of government and commercial. References available on 
 
 ## Relevant and Current Certifications
-
 DHS Trusted Tester (6/2023)
